@@ -1,9 +1,9 @@
 # OpenlayerAnimationAngular6
 
-## Angular6 OpenLayers - How to Use OL package for OpenLayer to View Animations
+## Angular6 OpenLayers - How to Use OL package for OpenLayer to View Animations in Angular6 project 
 
 ### This example shows how to use the view.animate() method to run one or more animations
-
+![Screenshot](src/assets/screen.png?raw=true "Title")
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
